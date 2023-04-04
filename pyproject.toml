@@ -8,6 +8,7 @@ packages = [{include = "csgoroll_withdrawbot"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+selenium = "^4.8.3"
 
 
 [build-system]
