@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "csgoroll-withdrawbot"
+name = "CSGORoll-WithdrawBot"
 version = "0.1.0"
 description = ""
 authors = ["Brenno <brenno1804@gmail.com>"]
